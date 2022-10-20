@@ -1,2 +1,5 @@
 # SeparandoDigitos
- Programa em Java que recebe um valor de cindo digitos e separa ele com espaços
+ Programa em Java que recebe um valor de cinco digitos e separa ele com espaços
+
+## Image
+ ![Separando Digitos](separandodigitos.png)
